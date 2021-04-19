@@ -38,5 +38,5 @@
 
 ## Contact 📞
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaocasarin/)
-[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-blue?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:joaovitorcasarin@hotmail.com)](mailto:joaovitorcasarin@hotmail.com)
+[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-blue?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:devjoaocasarin@hotmail.com)](mailto:devjoaocasarin@hotmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/joaocasarin)](https://instagram.com/alexsandroveiga)
