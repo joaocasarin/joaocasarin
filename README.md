@@ -1,42 +1,44 @@
-<img width="auto" src="https://cdn.discordapp.com/attachments/694609874197151754/813851700011335730/NLW04_pack_divulgacao_-_Github.png">
+# 👋 Hello world!
 
+![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
-# João Vitor Casarin
+## 🤵 About me:
+- 👨‍🎓 I'm studying Computer Engineering.
+- 🏦 I'm currently working as a Software Analyst @ Instituto de Pesquisas Eldorado.
+- 🤞 One of my goals is to become a fullstack developer in a near future.
+- 💬 You can talk to me about anything, mainly any kind of Games, Series, Sports and also Tech stuffs. 
+- ⚡ Fun fact: My laugh will make YOU laugh 😆
 
-## Hi all 👋
-I'm passionate for solving daily problems using programming, because, besides fixing that problem or facilitating the situtation, you'll be guarding that knowledge really easier into your mind.
-I would say I'm not a people person, but with the pass of time, I get more communicative, and it's very quick to happen. I love working in groups, because the more people you get contact with, the more you learn, even if you all are studying something you already know, there's always something new to learn, and that's the goal of life, always keep learning.
+## 👨‍💻 Technologies & Tools
 
+### 😎 What I currently use
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=lightgrey)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=0066b8)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=346e9f)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=efd81d)
+![](https://img.shields.io/badge/Database-MySql-informational?style=flat&logo=mysql&logoColor=white&color=00618a)
 
-Currently I'm an intern at Instituto de Pesquisas Eldorado, in a team which is responsible for validating, certifacting and guaranteeing that an android software is good to be deployed for public.
+### 🤘 What I am studying:
+![](https://img.shields.io/badge/Code-Node.Js-informational?style=flat&logo=node.js&logoColor=white&color=8bbf3d)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=61dafb)
+![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=0076c6)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=88bf64)
+![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=d6002f)
 
+### 🌱 What I want to study:
+![](https://img.shields.io/badge/Code-Next.JS-informational?style=flat&logo=next.js&logoColor=white&color=white)
+![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=redux&logoColor=white&color=7248b6)
+![](https://img.shields.io/badge/Code-Styled%20Components-informational?style=flat&logo=styled-components&logoColor=white&color=d66c8e)
+![](https://img.shields.io/badge/Code-SASS-informational?style=flat&logo=sass&logoColor=white&color=c76394)
+![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=28b0ee)
+![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=f3813d)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=f8981d)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ed)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=ff9900)
 
-I'm really excited to enter the developing world, where I'll be able to show people what I can do to change the world, from small to big things. :computer:
+## Contact 📞
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaocasarin/)
 
+[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-blue?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:joaovitorcasarin@hotmail.com)](mailto:joaovitorcasarin@hotmail.com)
 
-My favorite technology is Python3, but I also study a plethora of them, including Angular2+, React with Next.js, Microservices and Node.js.
-Now, I'm working on a basic portfolio project, which is built in Angular2+, and is available on github, and also, I'm building my own first RESTful API, which will be used for every project I build, if it needs a back-end service.
-
-## Experience / Knowledge 🎆
-</br>👥 &nbsp; My job: Currently a Software Integration Analyst intern. My goal is to become a developer, I do like both front and back end, regardless the used technology.
-
-</br>:computer: &nbsp; My stack: Angular2+, Node.JS, Python3, Javascript
-
-</br>:video_game: &nbsp; My hobbies: I love playing games, such as Tibia and Valorant, and also, I like to practice outdoor exercises, like going to gym, running and soccer.
-
-## Need help?
-Contact me if you need help on any technology I've listed above, I'll do my best to help you out, mainly with issues regarding Python, C/C++ and JS.
-
-## Contacts 📞
-[![Linkedin Badge](https://img.shields.io/badge/-Joao_Casarin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaocasarin/)
-
-
-[![Hotmail Badge](https://img.shields.io/badge/-joaovitorcasarin@hotmail.com-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaovitorcasarin@hotmail.com)](mailto:joaovitorcasarin@hotmail.com)
-
-
-## Projects
-[💬LikeOn](https://github.com/joaocasarin/likeon) - Social Media project created for the Web Programming subject at College.
-
-[Portfolio](https://github.com/joaocasarin/joaocasarin.github.io) - Portfolio built with Angular2+ for studying that language and having an introduction website.
-
-[First Personal API](https://github.com/joaocasarin/self-api) - API built in order to be used by any project I create, if that needs and backend service.
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/joaocasarin)](https://instagram.com/alexsandroveiga)
