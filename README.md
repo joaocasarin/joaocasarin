@@ -21,7 +21,7 @@
 
 ## 🤵 About me:
 - 👨‍🎓 Computer Engineering student.
-- 🏦 Software Integration Analyst @ Instituto de Pesquisas Eldorado.
+- 🏦 Backend Developer @ Instituto de Pesquisas Eldorado.
 - 🤞 One of my goals is to become a fullstack developer in a near future.
 - 💬 You can talk to me about anything, mainly any kind of Games, Series, Sports and also Tech stuffs. 
 - ⚡ Fun fact: My laugh will make YOU laugh 😆
